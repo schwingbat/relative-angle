@@ -1,0 +1,24 @@
+{
+  "name": "@schwingbat/relative-angle",
+  "version": "1.0.0",
+  "description": "Calculate the angle from one set of XY coordinates to another in degrees or radians.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/schwingbat/relative-angle"
+  },
+  "keywords": [
+    "angle",
+    "degrees",
+    "radians",
+    "circular"
+  ],
+  "author": "Tony McCoy <tony@ratwizard.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^18.1.0"
+  }
+}
